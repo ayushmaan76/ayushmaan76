@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=udhaybhat00.udhaybhat00" />
 
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Udhay+Bhat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayushmaan!;" />
 </h1>
 
 <h3 align="center">A Passionate Coder from India 🇮🇳</h3>
@@ -14,11 +14,11 @@
 
 🔭 I'm in the process of **Mastering new skills**.
  
- 🌱 I’m currently learning **Ethical Hacking**
+ 🌱 I’m currently learning **Machine Learning**
 
  💬 Ask me about **python,Linux,bash... or anything [here](https://github.com/ayushmaan76/ayushmaan76/issues)**
 
- ⚡ Fun fact **I use my skills to help organizations by identifying vulnerabilities in their systems before malicious hackers can exploit them.**
+ ⚡ Fun fact **I use my skills to solve the problems or challenges being faced in the real world.**
  
  </div>
  
