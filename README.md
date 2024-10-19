@@ -1,29 +1,17 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayushmaan76.ayushmaan76" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman76&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman76" /> </p>
 
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayushmaan!;" />
 </h1>
 
-<h3 align="center">A Passionate Coder from India 🇮🇳</h3>
+<h2 align="center">About me</h2>
 
-<br/>
+I am a software developer passionate about creating innovative solutions and optimizing processes. With expertise in various programming languages, I focus on building applications that enhance user experience and drive efficiency. Always eager to learn, I aim to deliver impactful software that meets client needs.
+&nbsp;
 
- </div>
- 
-<div align="center">
-
-🔭 I'm in the process of **Mastering new skills**.
- 
- 🌱 I’m currently learning **Machine Learning**
-
- 💬 Ask me about **python,C,C++... or anything [here](https://github.com/ayushmaan76/ayushmaan76/issues)**
-
- ⚡ Fun fact **I use my skills to solve the problems or challenges being faced in the real world.**
- 
- </div>
  
 <div align="center"> 
-  <a href="mailto:ayushmaan762005@gmail.com">
+  <a href="mailto:ayushmaan6443@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ayushmaan76" target="_blank">
@@ -31,31 +19,40 @@
   </a>
   <a href="https://github.com/ayushmaan76" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+      
   </a>
 </div>
+<br/><br/>
 
- <hr/>
- 
+<h2 align="center">Current project</h2>
+
+I'm currently working on Criminal Detection Project. This project uses facial recognition technology to identify criminals by comparing real-time images with a database of known offenders. By enhancing law enforcement capabilities, it aims to aid in crime prevention and improve public safety.
+
+&nbsp;
+
+<!--## ✏️ &nbsp;Blog posts
+<!-- 
+<!-- BLOG-POST-LIST:START -->
+<!-- - [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
+- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
+- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
+- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,c,php" />
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,cpp,git" />
   <br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,linux,bash,ruby" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,linux,figma,flutter" /><br>
 </div>
-</div>
+&nbsp;
 
-<br/>
-<hr/>
+<!--## 🖥 &nbsp;Past work -->
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayushmaan76/ayushmaan76/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card) -->
 
-<hr/>
+&nbsp;
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -68,17 +65,18 @@
   <br/>
  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaan76&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <br/><br/>
-<hr/>
+
+
+
 <h2 align="center">🙋‍♂️ Support</h2>
 
 
 <h3 align="center">💙 If you like this project, give it a ⭐ and share it with friends!</h3>
 <br>
 <div align="center">
-    <a href="https://www.buymeacoffee.com/udhaybhat">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="ayushmaan76" height="50" width="210">
+    <a href="https://www.buymeacoffee.com/ayushmaan76">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="ayushmaan" height="50" width="210">
     </a>
 </div>
 
