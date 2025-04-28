@@ -16,6 +16,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Self-Taught+Frontend+Developer;Learning+Full+Stack+Development;Active+Learner+%2F+Tech+Explorer;Passionate+about+Building+Projects;Love+to+learn+new+things..%3C3" alt="Typing SVG">
+    
   </a>
 </p>
 
@@ -40,6 +41,32 @@ Hello! I'm Ayushmaan, a passionate Software Developer with a strong interest in 
 - Open Source Contributor
 
 ---
+## <b> 🤝 Let's Connect..!</b>
+
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/ayushmaan76" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%23405DE6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<li>
+<a href="https://instagram.com/ayush_maan_76" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<li>
+<a href="mailto:ayushmaan6443@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+</ul>
+</div>
 
 
 
