@@ -25,24 +25,23 @@
 
 
 <!-- About Section -->
-<h2 align="center">About me</h2>
+## 👨‍💻 Whoami
 
-I am a software developer passionate about creating innovative solutions and optimizing processes. With expertise in various programming languages, I focus on building applications that enhance user experience and drive efficiency. Always eager to learn, I aim to deliver impactful software that meets client needs.
-&nbsp;
+Hello! I'm Ayushmaan, a passionate Software Developer with a strong interest in building user-friendly and impactful applications. I specialize in frontend development and am constantly expanding my skills in full-stack technologies. As a self-taught learner and tech enthusiast, I believe in continuous growth, collaboration, and sharing knowledge.
 
-<!-- Contact badges -->
-<div align="center"> 
-  <a href="mailto:ayushmaan6443@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ayushmaan76" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ayushmaan76" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-<br/><br/>
+---
+
+### 🛠️ Skills & Interests
+
+- Frontend Development
+- Full Stack Development
+- Machine Learning Enthusiast
+- UI/UX Design
+- Open Source Contributor
+
+---
+
+
 
 <!-- Current Project -->
 <h2 align="center">Current project</h2>
